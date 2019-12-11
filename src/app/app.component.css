@@ -1,0 +1,31 @@
+app-sticky-header {
+    /* z-index         : 1000;
+    box-shadow         : 2px 0 0 2px rgba(0, 0, 0, 0.3);
+    color              : white;
+    background-color   : #ab47bc;
+    font-size          : 2rem;
+    height             : 75px;
+    display            : flex;
+    justify-content    : center;
+    align-items        : center; */
+}
+
+.page {
+    height: 250vh;
+}
+
+
+
+/* added  */
+.top {
+    height    : 70px;
+    background: black;
+}
+
+p {
+    background: brown;
+    margin    : 0px;
+    padding   : 10px;
+    text-align: center;
+    color     : #fff;
+}
